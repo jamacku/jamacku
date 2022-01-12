@@ -1,5 +1,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jamacku&showicons=true)]()
 
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jamacku&layout=compact&hide=html)]()
+
 <!--
 **jamacku/jamacku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
