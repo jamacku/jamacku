@@ -1,9 +1,8 @@
-<div>
+<!-- <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jamacku&count_private=true&include_all_commits=true&showicons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamacku&count_private=true&langs_count=6&layout=compact" />
 </div>
 
-<!--
 **jamacku/jamacku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
