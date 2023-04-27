@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2879818/234783577-a4274c6b-3586-4b48-862a-86a14e37e2f6.jpg" />
+</p>
